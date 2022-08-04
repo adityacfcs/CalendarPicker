@@ -1,0 +1,52 @@
+{
+  "name": "react-native-calendar-picker",
+  "version": "6.0.6",
+  "description": "Calendar Picker Component for React Native",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "peerDependencies": {
+    "moment": ">=2.0.0",
+    "react": "*",
+    "react-native": "*"
+  },
+  "main": "./CalendarPicker",
+  "scripts": {
+    "start": "echo \"example folder contains sample app (see README)\" && exit 1",
+    "test": "echo \"example folder contains the tests (see README)\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephy/CalendarPicker"
+  },
+  "keywords": [
+    "calendar",
+    "picker",
+    "calendar",
+    "picker",
+    "date",
+    "picker",
+    "day",
+    "picker"
+  ],
+  "author": {
+    "name": "Stephani Alves",
+    "email": "alves@stephanimoroni.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephy/CalendarPicker/issues"
+  },
+  "homepage": "https://github.com/stephy/CalendarPicker",
+  "maintainers": [
+    {
+      "name": "stephy",
+      "email": "alves@stephanimoroni.com"
+    }
+  ],
+  "directories": {},
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "uuid": "3.2.1"
+  }
+}
